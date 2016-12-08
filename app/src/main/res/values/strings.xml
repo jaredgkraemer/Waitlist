@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WaitList</string>
+    <string name="action_settings">About</string>
+    <string name="search_page1">Search</string>
+    <string name="title_activity_new_window1">newWindow1</string>
+    <string name="menu_set">Home</string>
+    <string name="menu_inp">Info Page</string>
+    <string name="title_activity_info_page">infoPage</string>
+    <string name="info_stuff">  WaitList was created to find out the average wait times at local restaurants.</string>
+    <string name="title_activity_input_page">InputPage</string>
+    <string name="title_activity_about_page">AboutPage</string>
+</resources>
